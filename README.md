@@ -17,9 +17,6 @@
   
 
 
-![](https://github-profile-trophy.vercel.app/?username=migoiarmando&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 
 ![snake gif](https://github.com/migoiarmando/migoiarmando/blob/output/github-snake-dark.svg)
   
@@ -29,5 +26,5 @@
 </div>
 
   
-
+![](https://github-profile-trophy.vercel.app/?username=migoiarmando&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
