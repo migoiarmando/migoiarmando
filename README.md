@@ -1,8 +1,10 @@
 # 📊 GitHub Stats:
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=migoiarmando&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false" width="55%" /> <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=migoiarmando&theme=aura_dark&hide_border=false" width="50%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migoiarmando&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="36" /> </br>
+</div>
 
 
 
