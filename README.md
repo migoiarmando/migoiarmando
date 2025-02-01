@@ -1,9 +1,9 @@
 # 📊 GitHub Stats:
-<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=migoiarmando&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=migoiarmando&theme=aura_dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=migoiarmando&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+
 
 
 # 💻 Tech Stack:
